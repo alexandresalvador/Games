@@ -1,0 +1,23 @@
+{
+  "name": "games--marte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alexandresalvador/Games.git"
+  },
+  "keywords": [
+    "node",
+    "api"
+  ],
+  "author": "alexandresalvador",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexandresalvador/Games/issues"
+  },
+  "homepage": "https://github.com/alexandresalvador/Games#readme"
+}
